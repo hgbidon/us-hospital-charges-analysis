@@ -11,6 +11,7 @@
 
 ## 📊 Overview
 This project analyzes the **Inpatient Hospital Charges Dataset** from Kaggle, containing U.S. hospital billing and Medicare payment data.  
+
 It combines **SQL preprocessing** and **Python data visualization** to identify cost trends, the most expensive procedures, and regional variations in healthcare payments.
 
 The analysis highlights how **Medicare reimbursements often fall short of total hospital charges**, uncovering cost inefficiencies and disparities across states.
