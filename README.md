@@ -1,6 +1,7 @@
 # 🏥 U.S. Inpatient Hospital Charges and Medicare Payment Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey?logo=pandas)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange?logo=plotly)](https://seaborn.pydata.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/speedoheck/inpatient-hospital-charges)
