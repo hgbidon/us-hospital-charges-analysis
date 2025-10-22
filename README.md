@@ -56,7 +56,6 @@ The analysis highlights how **Medicare reimbursements often fall short of total 
 ```bash
 us-hospital-charges-analysis/
 │
-├── hospital_charges_clean.csv # Cleaned dataset
 ├── hospital_charges_analysis.ipynb # Main Jupyter notebook
 └── README.md
 ```
@@ -88,3 +87,14 @@ This project is licensed under the MIT License.
 ## 🙌 Acknowledgments
 Dataset courtesy of [LARXEL from Kaggle](https://www.kaggle.com/datasets/speedoheck/inpatient-hospital-charges?utm_source=chatgpt.com).
 Maintained and analyzed by Hana Gabrielle Bidon.
+
+---
+
+## 📦 Data Access
+
+Due to GitHub’s file size limits, the full dataset is not hosted here.  
+You can download the original data directly from Kaggle:
+
+📂 [Inpatient Hospital Charges Dataset (Kaggle)](https://www.kaggle.com/datasets/speedoheck/inpatient-hospital-charges)
+
+After downloading, rename the file to: inpatientCharges.csv, and place it in your working directory before running the SQL file on MySQL.
