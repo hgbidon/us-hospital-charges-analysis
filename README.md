@@ -56,10 +56,12 @@ The analysis highlights how **Medicare reimbursements often fall short of total 
 
 ## 📂 Repository Structure
 ```bash
-us-hospital-charges-analysis/
-│
-├── hospital_charges_analysis.ipynb # Main Jupyter notebook
-└── README.md
+📦 us-hospital-charges-analysis
+ ┣ 📄 hospital_charges_analysis.sql       # ETL and SQL queries  
+ ┣ 📄 analysis_notebook.ipynb             # Python data analysis and visualization  
+ ┣ 📊 visuals/                            # Exported charts  
+ ┣ 📜 LICENSE  
+ ┗ 📘 README.md 
 ```
 
 ---
